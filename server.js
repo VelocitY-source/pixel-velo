@@ -508,4 +508,4 @@ process.on("uncaughtException", err => {
     process.exit(1);
 });
 
-client.login("TOKEN")
+client.login("NzcwMzM5NjQzNzMyMTMxODcz.X5cIsw.5kMb_aY7oxdSMmoVLBw7jwxU0pI")
